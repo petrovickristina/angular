@@ -1,0 +1,28 @@
+# Dependency directories
+node_modules/
+dist/
+
+# Environment variables
+.env
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Compiled output
+*.js
+*.js.map
+
+# Logs and backups
+logs/
+*.log
+*.log.*
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+
